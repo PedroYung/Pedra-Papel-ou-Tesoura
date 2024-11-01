@@ -48,6 +48,7 @@ Este projeto de programação foi realizado na linguagem de Python, utilizando o
 ## Imagens
 ![image](https://github.com/user-attachments/assets/c1e12e5d-fbc0-4171-b337-00f920462d3c)
 ![image](https://github.com/user-attachments/assets/ce8c65e7-7787-4373-b3a3-a772721bda8f)
+
 ![image](https://github.com/user-attachments/assets/6fdacf8d-c850-4204-96da-859746923f62)
 ![image](https://github.com/user-attachments/assets/2c80edd8-a427-43af-a6ea-e632190df316)
 ![image](https://github.com/user-attachments/assets/9441bacd-78fa-4d33-8204-4bc351298581)
